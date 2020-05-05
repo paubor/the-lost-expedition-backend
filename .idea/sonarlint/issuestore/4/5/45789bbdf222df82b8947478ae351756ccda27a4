@@ -1,0 +1,13 @@
+
+v
+java:S1104"[Make ADVENTURE_CARDS a static final constant or non-public and provide accessors if needed.(£³½Ù8Ü¤í“.
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ú¦Ì‰8Ü¤í“.
+Z
+java:S1118":Add a private constructor to hide the implicit public one.(„´¦Óüÿÿÿÿ8Ü¤í“.
+8
+java:S2386"Make this member "protected".(£³½Ù8œô“.
+P
+java:S1444"5Make this "public static ADVENTURE_CARDS" field final(£³½Ù8Ü¤í“.
+u
+java:S3008"ZRename this field "ADVENTURE_CARDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£³½Ù8Ü¤í“.

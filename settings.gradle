@@ -1,0 +1,4 @@
+rootProject.name = 'the-lost-expedition-backend'
+include 'backend-api'
+include 'backend-service'
+

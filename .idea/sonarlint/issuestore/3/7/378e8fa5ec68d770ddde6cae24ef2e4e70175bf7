@@ -1,0 +1,16 @@
+
+T
+java:S1128
+"8Remove this unused import 'lostexpedition.control.Camp'.(ë€ú)8ìëÈì.
+b
+java:S1128"@Remove this unused import 'lostexpedition.entity.AdventureCard'.(â«Æÿÿÿÿÿ8ìëÈì.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ì Èì.
+H
+java:S1172"&Remove these unused method parameters.(¼ã®”øÿÿÿÿ8’·”ì.
+Y
+java:S1128"7Remove this unused import 'lostexpedition.entity.Data'.(˜È»¶ùÿÿÿÿ8ìëÈì.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ìëÈì.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ìëÈì.

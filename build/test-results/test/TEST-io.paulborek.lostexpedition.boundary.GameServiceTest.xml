@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.paulborek.lostexpedition.boundary.GameServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-22T14:43:02" hostname="LAPTOP-ERBV7CV2" time="0.141">
+  <properties/>
+  <testcase name="shuffleTest()" classname="io.paulborek.lostexpedition.boundary.GameServiceTest" time="0.141"/>
+  <system-out><![CDATA[56
+56
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
